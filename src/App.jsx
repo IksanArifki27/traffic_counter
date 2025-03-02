@@ -214,7 +214,7 @@ function App() {
           href="https://forms.gle/ZY1tWDoUxFakJo8b6"
           target="_blank"
         >
-          LINK PENGUMPULAN
+          (klik disini) LINK PENGUMPULAN
         </a>
       </div>
       {display && (
