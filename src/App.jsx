@@ -213,7 +213,7 @@ function App() {
         </p>
       </div>
       <hr className="border-2 border-black" />
-      <div className="text-center p-2 bg-black w-1/3 mx-auto my-3 rounded-full">
+      <div className="text-center p-2 bg-black w-1/2 mx-auto my-3 rounded-full">
         <a
           className="ml-3 text-3xl font-bold text-white my-2 "
           href="https://forms.gle/ZY1tWDoUxFakJo8b6"
